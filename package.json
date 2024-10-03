@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev src/option.ts",
+    "dev": "ts-node-dev src/example/declarative.ts",
     "build": "tsc",
     "start": "node dist/option.js"
   },
